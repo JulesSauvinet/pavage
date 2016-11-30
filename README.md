@@ -41,5 +41,6 @@ Il faut installer SDL2 pour pouvoir compiler le projet :</br>
 
 Ensuite :</br>
 
+	sudo apt-get install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev
 	make
 
