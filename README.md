@@ -34,13 +34,12 @@ By Olivier Hoarau & Jules Sauvinet </br>
 </br>
 * COMPILATION *</br>
 </br>
+
+
 Il faut installer SDL2 pour pouvoir compiler le projet :</br>
 
-
 	sudo apt-get install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev
-
+	
 Ensuite :</br>
 
-	sudo apt-get install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev
 	make
-
