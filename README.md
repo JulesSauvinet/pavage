@@ -5,7 +5,7 @@ Cela doit permettre de pouvoir interpoler un point quelconque de l'espace selon 
 </br>
 By Olivier Hoarau & Jules Sauvinet </br>
 </br>
-* CONTENU DU DOSSIER *</br></br>
+* CONTENU DU DOSSIER *</br>
 
 .</br>
 ├── bin </br>
@@ -35,7 +35,7 @@ By Olivier Hoarau & Jules Sauvinet </br>
 * COMPILATION *</br>
 </br>
 Il faut installer SDL2 pour pouvoir compiler le projet :</br>
-</br>
+
 	sudo apt-get install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev
 
 Ensuite :</br>
