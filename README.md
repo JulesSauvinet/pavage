@@ -36,13 +36,10 @@ By Olivier Hoarau & Jules Sauvinet </br>
 </br>
 Il faut installer SDL2 pour pouvoir compiler le projet :</br>
 
+
 	sudo apt-get install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev
 
 Ensuite :</br>
 
 	make
 
-
-* UTILISATION *</br>
-</br>
-//TODO gérer des arguments en ligne de commande</br>
